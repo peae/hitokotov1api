@@ -1,2 +1,3 @@
 # hitokotov1api
-获取一言API的数据
+
+获取[一言API](https://v1.hitokoto.cn/)的数据
